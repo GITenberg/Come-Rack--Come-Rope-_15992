@@ -1,0 +1,36 @@
+_repo: Come-Rack--Come-Rope-_15992
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Robert Hugh
+    alias: Benson, R. H. (Robert Hugh)
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '4052'
+    url: http://www.gutenberg.org/2009/agents/4052
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Hugh_Benson
+description: '"This novel tells of the struggles and sufferings of Catholic Recusants
+  under Queen Elizabeth I of England. One such Recusant, Robin Audrey, is shocked
+  to learn his father had decided to leave the Catholic Church for the safety of the
+  Church of England. The narrative follows Robin''s struggle with the call of faith,
+  as he is torn between his dream of marriage and a priestly vocation, which would
+  entail further persecution and might even end in martyrdom"--Back cover.'
+gutenberg_issued: '2005-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Catholics -- England -- History -- 16th century -- Fiction'
+- !lcsh 'Persecution -- England -- History -- 16th century -- Fiction'
+title: Come Rack! Come Rope!
+url: http://www.gutenberg.org/ebooks/15992
